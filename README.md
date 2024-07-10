@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Gerardo Ortiz </h1>
 <h3 align="center">Desarrollador Front-End</h3>
-
+![perfil-linkedink](https://github.com/dacronik/dacronik/assets/96795408/766f2757-cb8e-40a3-b2ff-605f1520ee7d)
 **dacronik/dacronik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
