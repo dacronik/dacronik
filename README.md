@@ -20,7 +20,7 @@
 
 # <picture><img src = "https://github.com/dacronik/dacronik/blob/master/about_me.gif" width = 50px></picture> About me
 
-- :school: I am a `Junior` but with more than 2 years of experience in web development
+- 🏫 I am a `Junior` but with more than 2 years of experience in web development
 - 🔭 I’m currently working on web development technologies like JavaScript, React, Vue, etc.
 - 🌱 I am currently studying backend development with node and express.
 - 👯 I am looking to collaborate on group projects and contribute with my knowledge.
@@ -43,5 +43,16 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dacronik&layout=compact)
+
+# <picture><img src = "https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA2NTIwMTAsIm5iZiI6MTcyMDY1MTcxMCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzEwVDIyNDgzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyYmZkZGNiZDM5N2IxZDk1NTc4ZTI4ODgzMTJmNjMyMTNjZmYzZTcyZWMxNDIxOTRjYTE2OTFmMmZiMjZlODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.S5Y-MOwxNNhoqy22LZFcA6WJrgsio6QPcfh9I-jvEzY" width = 50px></picture> GitHub Stats
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacronik&layout=compact&theme=blue-green"/>
+</p>
+
+
+
+
+
+
 
