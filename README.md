@@ -18,7 +18,7 @@
 </p>
 <hr>
 
-# <picture><img src = "[https://github.com/dacronik/dacronik/blob/master/about_me.gif](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)" width = 50px></picture> About me
+# <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture> About me
 
 - 🏫 I am a `Junior` but with more than 2 years of experience in web development
 - 🔭 I’m currently working on web development technologies like JavaScript, React, Vue, etc.
