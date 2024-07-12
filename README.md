@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Gerardo Ortiz </h1>
 <h3 align="center">Front-End Developer</h3>
 <br>
-<img src="https://github.com/dacronik/dacronik/blob/master/perfil-linkedink.jpeg"/>
+<img src="banner-gitHub.jpeg"/>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
